@@ -9,7 +9,8 @@ This session will  be open to interested researchers -- please notify us by Augu
 
 Day 3 will focus on the roadmap for the emerging DataJoint SciOps platform and will be limited to the DataJoint and JHU/APL teams. 
 
-## Day 1 - September 6, 2022    8.30 am-4.30 pm  + lunch
+## Day 1 (2022-09-06) 
+Time: 8:30-16:30 CDT + lunch. 
 
 * Aim for SciOps
   - reduce barriers for participation
@@ -30,16 +31,19 @@ Day 3 will focus on the roadmap for the emerging DataJoint SciOps platform and w
   - Budgeting and cost controls
 
 * Role of Databases
-  - Data consistency
+  - Data consistency, integrity
+  - Query speed, indexing 
   - Schema vs schema-free 
 
-* A criticial review of the current and emerging  neuroinformatics initiatives
+* A critical review of the current and emerging  neuroinformatics initiatives
   - Data standards, archives, public data repositories and databases.
   - Analysis tools 
   - Collaboration platforms
 
 
-## Day 2 - September 7, 2022  8.30 am-4.30 pm + lunch
+## Day 2 (2022-09-07) 
+Time: 8:30-16:30 pm + lunch
+
 * Roadmap for Automated Research Workflows 
   - DataOps for team science 
   - Collaboration platforms 
@@ -56,13 +60,21 @@ Day 3 will focus on the roadmap for the emerging DataJoint SciOps platform and w
   - DataJoint framework - differentiators, performance, gap analysis 
   - DataJoint Elements - User experience
   - DataJoint SciOps - user experience 
-  - Platform for tool developers - credit assignment 
+  - Interfaces: 
+  - Platform for tool developers - dissemination, tracking, credit assignment 
 
 ## Day 3 - September 8, 2022
-DataJoint SciOps Workshop
+Time: 8:30-16:30 pm + lunch
+
+DataJoint SciOps Workshop -- internal.  DataJoint and JHU APL only.
+
 * Aims for DataJoint SciOps 
-  - Differentiation from existing platforms
+  - Key differentiation from existing platforms
   - SciOps user experience 
 * DataJoint framework development
 * Integration with DataJoint Elements
 * Integrations
+* Aim 1
+* Aim 2
+* Aim 3
+* Milestones, Statement of work, Roles and responsibilities
