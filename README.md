@@ -29,6 +29,10 @@ Day 3 will focus on the roadmap for the emerging DataJoint SciOps platform and w
   - Reproducibility, integrity, continuity
   - Budgeting and cost controls
 
+* Role of Databases
+  - Data consistency
+  - Schema vs schema-free 
+
 * A criticial review of the current and emerging  neuroinformatics initiatives
   - Data standards, archives, public data repositories and databases.
   - Analysis tools 
@@ -45,17 +49,20 @@ Day 3 will focus on the roadmap for the emerging DataJoint SciOps platform and w
 * Joint management of code, environment, and data
     
 * Workflow management systems
-  - Prefect, Apache Airflow, Common Workflow Language  
-  - orchestration 
+  - Prefect, Apache Airflow, Flyte, Argo ->  Common Workflow Language  
+  - Job orchestration 
 
 * DataJoint experience 
-  - DataJoint framework - gap analysis 
+  - DataJoint framework - differentiators, performance, gap analysis 
   - DataJoint Elements - User experience
   - DataJoint SciOps - user experience 
+  - Platform for tool developers - credit assignment 
 
 ## Day 3 - September 8, 2022
 DataJoint SciOps Workshop
 * Aims for DataJoint SciOps 
-* SciOps user experience 
-* Workflow management systems 
+  - Differentiation from existing platforms
+  - SciOps user experience 
+* DataJoint framework development
+* Integration with DataJoint Elements
 * Integrations
