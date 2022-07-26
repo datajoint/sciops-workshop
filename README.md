@@ -1,6 +1,6 @@
-# DataJoint SciOps Roadmap Brainstorm
+# Automated Workflows Roadmap Brainstorm | Houston | Sep 6-7
 
-The DataJoint team and the Johns Hopkins University Applied Physics Lab will hold a three-day workshop to define the roadmap for automated research workflows in neuroscience.
+The DataJoint team and the Johns Hopkins University Applied Physics Lab will hold a two-day workshop to define the roadmap for automated research workflows in neuroscience.
 The workshop will be held at the [DataJoint office in Houston, TX](https://www.datajoint.com/about). 
 
 The workshop will identify general directions for addressing the challenges in team science and data-driven research workflows. 
@@ -27,13 +27,15 @@ Time: 8:30-16:30 CDT + lunch.
   - IT Infrastructure - Use of cloud
   - Collaborative analysis
   - Credit assignment
+  - Human in the loop -- curation 
+  - AI in the loop
   - Reproducibility, integrity, continuity
   - Budgeting and cost controls
 
 * Role of Databases
+  - Data models: structured vs self-describing
   - Data consistency, integrity
   - Query speed, indexing 
-  - Schema vs schema-free 
 
 * A critical review of the current and emerging  neuroinformatics initiatives
   - Data standards, archives, public data repositories and databases.
