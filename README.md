@@ -4,7 +4,7 @@ The DataJoint team and the Johns Hopkins University Applied Physics Lab will hol
 We will review the current landscape critically and define paths for implementing effective research workflows in neuroscience.
 
 ### Organizers and participants
- * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
+ * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
  * JHU/APL: Daniel Xenes, Erik Johnson 
  * University of Utah, [Visus](https://visus.org/content/about-us): Amy Gooch, Valerio Pascucci
  * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
