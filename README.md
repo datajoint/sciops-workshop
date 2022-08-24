@@ -1,9 +1,10 @@
-# Automated Workflows Roadmap Brainstorm | Houston | Sep 6-7
+# Neuroscience Workflow Automation --  Brainstorm | Houston | Sep 6-7
 
 The DataJoint team and the Johns Hopkins University Applied Physics Lab will hold an open brainstorm workshop to define the roadmap for automated research workflows in neuroscience.
+We will review the current landscape critically and define paths for implementing effective research workflows in neuroscience.
 
 ### Organizers and participants
- * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Dimitri Yatsenko
+ * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
  * JHU/APL: Daniel Xenes, Erik Johnson 
  * University of Utah, [Visus](https://visus.org/content/about-us): Amy Gooch, Valerio Pascucci
  * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
