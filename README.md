@@ -84,7 +84,7 @@ Day 3 will focus on the roadmap for the emerging DataJoint platform and will be 
 
 7.30 am breakfast
 
-8 am:  An overview of Formal Workflow management tools - Raphael, 
+8 am:  An overview of Formal Workflow management tools - Raphael, Erik
   - Prefect, Apache Airflow, Flyte, Argo -> [Common Workflow Language](https://www.commonwl.org/)
 
 Most widely used bioinformatics workflow systems (from [Reiter-2020](https://academic.oup.com/gigascience/article/10/1/giaa140/6092773?fbclid=IwAR1I92LXvDbpesunIQOENtLRa4vm3zH4pvC8HJQ269luTaQ_WBwWIuMeFh8#312918873)):
@@ -96,23 +96,23 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
  | CWL | [commonwl.org](https://www.commonwl.org/) | [EBI-Metagenomics](https://github.com/EBI-Metagenomics/pipeline-v5) | [User Guide Example](https://www.commonwl.org/user_guide/02-1st-example/index.html) |
  | WDL | [openwdl.org](https://openwdl.org/) | [gatk4](https://github.com/gatk-workflows/gatk4-data-processing) | [HOWTO](https://support.terra.bio/hc/en-us/articles/360037127992–1-howto-Write-your-first-WDL-script-running-GATK-HaplotypeCaller) |
 
-9 am Infrastructure access, orchestration:
+9 am Infrastructure access, orchestration - Erik, Raphael, Joseph
   - Infrastructure: e.g. NeuroCAAS - Taiga, John Cunningham 
   - Job orchestration - Raphael
 
-10 am  Data Management, the role of databases 
+10 am  Data Management, the role of databases - Dimitri
   - workflows + data management 
   - data models: structured vs self-describing data 
   - data consistency, integrity
   - query speed,indexing 
 
-11 am Accessibility, provenance, versioning
-  - association of code 
+11 am - Accessibility, provenance, versioning - Erik, Ben, Dimitri
+  - association between code, data
   - Joint management of code, environment, and data
 
 12 noon - lunch
 
-1 pm - Neuroinformatics resources - Erik, Dimitri
+1 pm - Neuroinformatics resources - Erik, Dimitri, Ben
   - Allen and Janelia atlases
   - Catalogs, nomenclatures, ontologies 
   - Data standards, archives, public data repositories and databases.
@@ -148,7 +148,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
   - SciOps user experience 
 * Framework development
 * Integration of DataJoint Elements
-* Integrations - acquisitions, atlases, archives
+* Integrations - acquisition software, atlases, archives
 * Aim 1
 * Aim 2
 * Aim 3
