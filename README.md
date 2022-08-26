@@ -4,11 +4,12 @@ The DataJoint team and the Johns Hopkins University Applied Physics Lab will hol
 We will review the current landscape critically and define paths for implementing effective research workflows in neuroscience.
 
 ### Organizers and participants
- * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
  * JHU/APL: Daniel Xenes, Erik Johnson 
- * University of Utah, [Visus](https://visus.org/content/about-us): Amy Gooch, Valerio Pascucci
- * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
+ * Columbia University: Taiga Abe, John Cunningham
  * [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
+ * University of Utah, [Visus](https://visus.org): Amy Gooch, Valerio Pascucci
+ * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
+ * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
 
 ### Where
 The workshop will be held at [DataJoint in Houston, TX](https://www.datajoint.com/about).
@@ -75,7 +76,9 @@ Day 3 will focus on the roadmap for the emerging DataJoint platform and will be 
 
 1 pm - Visus. Data streaming, HPC infrastructure - Valerio
 
-2 pm - collaborative analysis tools, platforms, and environments. DANDI, PanNeuro - Erik
+2 pm - collaborative analysis tools, platforms, and environments. DANDI, PanNeuro - Ben ,Erik 
+
+ - 30 mins  - PanNeuro - Ben 
 
 3 pm - ML integration. Human-in-the loop - Dimitri, Erik
 
@@ -126,7 +129,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
   - Interfaces:
   - Platform for tool developers - dissemination, tracking, credit assignment
 
-4 pm - Teamflows - Erik, Thinh
+3 pm - Teamflows - Erik, Thinh
    - Roles, team structure 
    - Software Engineering in Research
    - incentives, credit assignment
@@ -134,7 +137,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
    - integration of community development
    - funding, support
 
-3 pm - Online research platforms - Erik
+4 pm - Online research platforms - Erik
   - Examples: Galaxy, [HubMap](https://portal.hubmapconsortium.org/)
 
 ## Day 3 - September 8, 2022
