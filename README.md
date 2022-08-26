@@ -1,4 +1,5 @@
-# Neuroscience Workflow Automation --  Brainstorm | Houston | Sep 6-7
+# Neuro Workflows | Houston | Sep 6-7
+## Brainstorming workshop
 
 The DataJoint team and the Johns Hopkins University Applied Physics Lab will hold an open brainstorm workshop to define the roadmap for automated research workflows in neuroscience.
 We will review the current landscape critically and define paths for implementing effective research workflows in neuroscience.
@@ -99,7 +100,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
  | CWL | [commonwl.org](https://www.commonwl.org/) | [EBI-Metagenomics](https://github.com/EBI-Metagenomics/pipeline-v5) | [User Guide Example](https://www.commonwl.org/user_guide/02-1st-example/index.html) |
  | WDL | [openwdl.org](https://openwdl.org/) | [gatk4](https://github.com/gatk-workflows/gatk4-data-processing) | [HOWTO](https://support.terra.bio/hc/en-us/articles/360037127992–1-howto-Write-your-first-WDL-script-running-GATK-HaplotypeCaller) |
 
-9 am Infrastructure access, orchestration - Erik, Raphael, Joseph
+9 am Infrastructure access, orchestration - Erik, Raphael, Joseph, Taiga
   - Infrastructure: e.g. NeuroCAAS - Taiga, John Cunningham 
   - Job orchestration - Raphael
 
