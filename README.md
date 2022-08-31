@@ -104,13 +104,14 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
   - Infrastructure: e.g. NeuroCAAS - Taiga, John Cunningham 
   - Job orchestration - Raphael
 
-10 am  Data Management, the role of databases - Dimitri
+10 am  Data Management, the role of databases - Dimitri, David Feng
   - workflows + data management 
   - data models: structured vs self-describing data 
   - data consistency, integrity
   - query speed,indexing 
+  - Data lakes, workflows/structure: Benchling, Code Ocean
 
-11 am - Accessibility, provenance, versioning - Erik, Ben, Dimitri
+11 am - Accessibility, provenance, versioning - Erik, Ben, Dimitri, David Feng
   - association between code, data
   - Joint management of code, environment, and data
 
