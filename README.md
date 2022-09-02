@@ -1,14 +1,18 @@
-# Neuroscience Workflow Automation --  Brainstorm | Houston | Sep 6-7
+# Neuro Workflows | Houston | Sep 6-7
+## Brainstorming workshop
 
 The DataJoint team and the Johns Hopkins University Applied Physics Lab will hold an open brainstorm workshop to define the roadmap for automated research workflows in neuroscience.
 We will review the current landscape critically and define paths for implementing effective research workflows in neuroscience.
 
 ### Organizers and participants
- * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
  * JHU/APL: Daniel Xenes, Erik Johnson 
- * University of Utah, [Visus](https://visus.org/content/about-us): Amy Gooch, Valerio Pascucci
- * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
+ * Columbia University: Taiga Abe, John Cunningham
  * [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
+ * University of Utah, [Visus](https://visus.org): Amy Gooch, Valerio Pascucci
+ * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
+ * [Ontologic](http://ontologic.ly): Dallas McCall
+ * Allen Institute - Neural Dynamics: David Feng
+ * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
 
 ### Where
 The workshop will be held at [DataJoint in Houston, TX](https://www.datajoint.com/about).
@@ -75,7 +79,9 @@ Day 3 will focus on the roadmap for the emerging DataJoint platform and will be 
 
 1 pm - Visus. Data streaming, HPC infrastructure - Valerio
 
-2 pm - collaborative analysis tools, platforms, and environments. DANDI, PanNeuro - Erik
+2 pm - collaborative analysis tools, platforms, and environments. DANDI, PanNeuro - Ben ,Erik 
+
+ - 30 mins  - PanNeuro - Ben 
 
 3 pm - ML integration. Human-in-the loop - Dimitri, Erik
 
@@ -96,17 +102,18 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
  | CWL | [commonwl.org](https://www.commonwl.org/) | [EBI-Metagenomics](https://github.com/EBI-Metagenomics/pipeline-v5) | [User Guide Example](https://www.commonwl.org/user_guide/02-1st-example/index.html) |
  | WDL | [openwdl.org](https://openwdl.org/) | [gatk4](https://github.com/gatk-workflows/gatk4-data-processing) | [HOWTO](https://support.terra.bio/hc/en-us/articles/360037127992–1-howto-Write-your-first-WDL-script-running-GATK-HaplotypeCaller) |
 
-9 am Infrastructure access, orchestration - Erik, Raphael, Joseph
+9 am Infrastructure access, orchestration - Erik, Raphael, Joseph, Taiga
   - Infrastructure: e.g. NeuroCAAS - Taiga, John Cunningham 
   - Job orchestration - Raphael
 
-10 am  Data Management, the role of databases - Dimitri
+10 am  Data Management, the role of databases - Dimitri, David Feng
   - workflows + data management 
   - data models: structured vs self-describing data 
   - data consistency, integrity
   - query speed,indexing 
+  - Data lakes, workflows/structure: Benchling, Code Ocean
 
-11 am - Accessibility, provenance, versioning - Erik, Ben, Dimitri
+11 am - Accessibility, provenance, versioning - Erik, Ben, Dimitri, David Feng
   - association between code, data
   - Joint management of code, environment, and data
 
@@ -126,7 +133,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
   - Interfaces:
   - Platform for tool developers - dissemination, tracking, credit assignment
 
-4 pm - Teamflows - Erik, Thinh
+3 pm - Teamflows - Erik, Thinh
    - Roles, team structure 
    - Software Engineering in Research
    - incentives, credit assignment
@@ -134,7 +141,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
    - integration of community development
    - funding, support
 
-3 pm - Online research platforms - Erik
+4 pm - Online research platforms - Erik
   - Examples: Galaxy, [HubMap](https://portal.hubmapconsortium.org/)
 
 ## Day 3 - September 8, 2022
