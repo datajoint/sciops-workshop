@@ -10,6 +10,8 @@ We will review the current landscape critically and define paths for implementin
  * [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
  * University of Utah, [Visus](https://visus.org): Amy Gooch, Valerio Pascucci
  * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
+ * [Ontologic](http://ontologic.ly): Dallas McCall
+ * Allen Institute - Neural Dynamics: David Feng
  * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
 
 ### Where
