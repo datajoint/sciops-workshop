@@ -6,12 +6,12 @@ We will review the current landscape critically and define paths for implementin
 
 ### Organizers and participants
  * JHU/APL: Daniel Xenes, Erik Johnson 
- * Columbia University: Taiga Abe
- * [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
+ * Columbia University: Taiga Abe, John Cunningham
+ * Berlin Institute of Health, Charité University [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
  * University of Utah, [Visus](https://visus.org): Amy Gooch, Valerio Pascucci
  * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
  * [Ontologic](http://ontologic.ly): Dallas McCall
- * Allen Institute - Neural Dynamics: David Feng
+ * Allen Institute - Neural Dynamics (remote): David Feng 
  * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Monty Kosma, Anu Pansare, Dimitri Yatsenko
 
 ### Where
