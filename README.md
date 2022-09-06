@@ -7,12 +7,12 @@ We will review the current landscape critically and define paths for implementin
 ### Organizers and participants
  * JHU/APL: Daniel Xenes, Erik Johnson 
  * Columbia University: Taiga Abe, John Cunningham
- * [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
+ * Berlin Institute of Health, Charité University [EBRAINS](https://ebrains.eu/) (remote): Michael Schirner, Petra Ritter
  * University of Utah, [Visus](https://visus.org): Amy Gooch, Valerio Pascucci
  * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
  * [Ontologic](http://ontologic.ly): Dallas McCall
- * Allen Institute - Neural Dynamics: David Feng
- * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
+ * Allen Institute - Neural Dynamics (remote): David Feng 
+ * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Monty Kosma, Anu Pansare, Dimitri Yatsenko
 
 ### Where
 The workshop will be held at [DataJoint in Houston, TX](https://www.datajoint.com/about).
@@ -69,7 +69,9 @@ Day 3 will focus on the roadmap for the emerging DataJoint platform and will be 
  - Reproducibility, integrity, continuity
  - Budgeting and cost controls
 
-10 am - Virtual Research Environments - Michael  
+10 am - Virtual Research Environments - Michael Schirner 
+ - [The Virtual Brain](https://ebrains.eu/service/the-virtual-brain/) – EBRAINS Cloud woorkflows 
+ - Virtual Research Environment (VRE) for research on sensitive health data at Charité Berlin
 
 11 am - BRAIN Initiative Neuroinformatics Developments - Erik
   - A critical review of the current and emerging  neuroinformatics initiatives
@@ -80,8 +82,7 @@ Day 3 will focus on the roadmap for the emerging DataJoint platform and will be 
 1 pm - Visus. Data streaming, HPC infrastructure - Valerio
 
 2 pm - collaborative analysis tools, platforms, and environments. DANDI, PanNeuro - Ben ,Erik 
-
- - 30 mins  - PanNeuro - Ben 
+ - [PanNeuro](https://arokem.github.io/2019-BRAINI-PanNeuro-slides/#/) - Ben 
 
 3 pm - ML integration. Human-in-the loop - Dimitri, Erik
 
@@ -103,7 +104,7 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
  | WDL | [openwdl.org](https://openwdl.org/) | [gatk4](https://github.com/gatk-workflows/gatk4-data-processing) | [HOWTO](https://support.terra.bio/hc/en-us/articles/360037127992–1-howto-Write-your-first-WDL-script-running-GATK-HaplotypeCaller) |
 
 9 am Infrastructure access, orchestration - Erik, Raphael, Joseph, Taiga
-  - Infrastructure: e.g. NeuroCAAS - Taiga, John Cunningham 
+  - [NeuroCaas](https://neurocaas.org) - Taiga Abe
   - Job orchestration - Raphael
 
 10 am  Data Management, the role of databases - Dimitri, David Feng
@@ -126,14 +127,14 @@ Most widely used bioinformatics workflow systems (from [Reiter-2020](https://aca
   - Analysis tools 
   - Collaboration platforms
 
-2 pm  - The DataJoint experience - Thinh
+2 pm  - The DataJoint experience - Thinh, Dimitri
   - DataJoint Core - differentiators, performance, gap analysis
   - DataJoint Elements - User experience
   - DataJoint Works - user experience
-  - Interfaces:
+  - Interfaces: SciViz, LabBook, Codebook 
   - Platform for tool developers - dissemination, tracking, credit assignment
 
-3 pm - Teamflows - Erik, Thinh
+3 pm - Teamflows - Erik, Thinh, Dimitri
    - Roles, team structure 
    - Software Engineering in Research
    - incentives, credit assignment
