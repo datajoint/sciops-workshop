@@ -12,7 +12,7 @@ We will review the current landscape critically and define paths for implementin
  * [Catalyst Neuro](https://www.catalystneuro.com/): Ben Dichter
  * [Ontologic](http://ontologic.ly): Dallas McCall
  * Allen Institute - Neural Dynamics: David Feng
- * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Dimitri Yatsenko
+ * DataJoint: Thinh Nguyen, Raphael Guzman, Monty Kosma, Kabi Gunalan, Joseph Burling, Chris Brozdowski, Tolga Dincer, Sidharth Hulyalkar, Jaerong Ahn, Kushal Bakshi, Monty Kosma, Anu Pansare, Dimitri Yatsenko
 
 ### Where
 The workshop will be held at [DataJoint in Houston, TX](https://www.datajoint.com/about).
@@ -69,7 +69,8 @@ Day 3 will focus on the roadmap for the emerging DataJoint platform and will be 
  - Reproducibility, integrity, continuity
  - Budgeting and cost controls
 
-10 am - Virtual Research Environments - Michael  
+10 am - Virtual Research Environments - Michael Schirner 
+ - [The Virtual Brain](https://www.sciencedirect.com/science/article/pii/S1053811922001021) – EBRAINS Cloud woorkflows and the Virtual Research Environment (VRE) for research on sensitive health data at Charité Berlin.
 
 11 am - BRAIN Initiative Neuroinformatics Developments - Erik
   - A critical review of the current and emerging  neuroinformatics initiatives
