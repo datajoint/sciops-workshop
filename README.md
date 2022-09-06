@@ -17,7 +17,7 @@ We will review the current landscape critically and define paths for implementin
 ### Where
 The workshop will be held at [DataJoint in Houston, TX](https://www.datajoint.com/about).
 
-Address: [4265 San Felipe St, Ste 1025](https://goo.gl/maps/SMHvhV1ARFsGWXWA8), Houston, TX 77027
+Address: [4265 San Felipe St, Ste 1025 (10th Floor)](https://goo.gl/maps/SMHvhV1ARFsGWXWA8), Houston, TX 77027. Plenty of parking is available in the garage attached on the south side of the building. 
 
 ###  Focus 
 Aim:
