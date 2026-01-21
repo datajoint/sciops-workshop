@@ -1,3 +1,7 @@
+> ⚠️ **This repository is archived and no longer maintained.**
+> Workshop materials from 2022.
+> For current DataJoint development, see [datajoint-python](https://github.com/datajoint/datajoint-python).
+
 # Neuro Workflows | Houston | Sep 6-7
 ## Brainstorming workshop
 
